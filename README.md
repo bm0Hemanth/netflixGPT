@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 "# netflix-gpt" 
 =======
-
-dont use "jio NETWORK" for this
+dont use "jio NETWORK" for this ====>>>  https://netflixgpt-2a5c5.web.app/
 
 
 # Getting Started with Create React App
